@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Homes on Roman Ring</title>
+    <title>채널타이틀1</title>
     <link>http://inoryy.com/home/</link>
     <description>Recent content in Homes on Roman Ring</description>
     <generator>Hugo -- gohugo.io</generator>
@@ -23,7 +23,7 @@ After five years of work experience, I decided to pivot my career and take an ac
     </item>
     
     <item>
-      <title>Blog Posts</title>
+      <title>블로그 포스트1</title>
       <link>http://inoryy.com/home/posts/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -32,7 +32,7 @@ After five years of work experience, I decided to pivot my career and take an ac
     </item>
     
     <item>
-      <title>Projects</title>
+      <title>프로잭트1</title>
       <link>http://inoryy.com/home/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -41,7 +41,7 @@ After five years of work experience, I decided to pivot my career and take an ac
     </item>
     
     <item>
-      <title>Talks</title>
+      <title>토크1</title>
       <link>http://inoryy.com/home/talks/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -50,7 +50,7 @@ After five years of work experience, I decided to pivot my career and take an ac
     </item>
     
     <item>
-      <title>Teaching</title>
+      <title>티칭1</title>
       <link>http://inoryy.com/home/teaching/</link>
       <pubDate>Fri, 05 Jan 2018 00:00:00 +0000</pubDate>
       
